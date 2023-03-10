@@ -173,7 +173,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 .pyre/
+.jupyter/
 
 Dataset.npy
 datafiles/
 .*.kate-swp
+datafile/
