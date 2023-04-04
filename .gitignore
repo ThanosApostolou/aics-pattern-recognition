@@ -177,6 +177,7 @@ dmypy.json
 
 Dataset.npy
 datafiles/
+results/
 .*.kate-swp
 .~lock.*.docx#
 .~lock.*.odt#
