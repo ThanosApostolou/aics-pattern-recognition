@@ -181,4 +181,5 @@ results/
 .*.kate-swp
 .~lock.*.docx#
 .~lock.*.odt#
+.~lock.*.csv#
 datafile/
